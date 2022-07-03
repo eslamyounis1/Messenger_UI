@@ -1,16 +1,11 @@
-# practice_makes_perfect
+Simple Facebook Messenger- Using MatirialDesign (Flutter)
 
-A new Flutter project.
+You can clone this repo to run the app on an emulator or on your 
+pysical Device
 
-## Getting Started
+Here is How it looks:
 
-This project is a starting point for a Flutter application.
+![Screenshot_1656228394](https://user-images.githubusercontent.com/91839880/177047823-e36c1d2d-0879-4223-9014-a50bd7107337.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading Screenshot_1656704111.png…]()
