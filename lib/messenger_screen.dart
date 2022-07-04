@@ -132,11 +132,7 @@ class MessengerScreen extends StatelessWidget {
     );
   }
 
-  // 1. build item
-  // 2. build list
-  // 3. add item to list
-
-  // arrow function
+  
 
   Widget buildChatItem() => Row(
         children: [
